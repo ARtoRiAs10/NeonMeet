@@ -1,7 +1,7 @@
 import httpStatus from "http-status";
 
 const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
-const OPENROUTER_MODEL = "meta-llama/llama-3.1-8b-instruct:free"; // Free tier model
+const OPENROUTER_MODEL = "stepfun/step-3.5-flash:free"; // Free tier model
 
 /**
  * Helper: Call OpenRouter API
